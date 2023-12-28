@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Addison. I like to build online services, code APIs, and play with AI.
+My name is Addison. I like to build online services, APIs, and play with AI. I do a lot of work in C# .Net, but recently I've been branching out into things like Python.
 
 I was in a restrictive non-compete clause until the end of 2023, so much of the code I've written is private. However, I was recently laid off so now I can post whateevr I want! 😄
 
