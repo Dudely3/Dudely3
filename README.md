@@ -2,7 +2,7 @@
 
 My name is Addison. I like to build online services, APIs, and play with AI. I do a lot of work in C# .Net, but recently I've been branching out into things like Python.
 
-I was in a restrictive non-compete clause until the end of 2023, so much of the code I've written is private. However, I was recently laid off so now I can post whateevr I want! 😄
+I was in a restrictive non-compete clause until the end of 2023, so much of the code I've written is private. However, I was recently laid off so now I can post whatever I want! 😄
 
 - 🌱 I’m currently learning graph theory because it applies to a lot of the different ML algorithms I work on. Any reccomendations?
 - 👯 I’m looking to collaborate on anything to do with AI, helping to build an API for the public good, or anything to do with code and gardening!
