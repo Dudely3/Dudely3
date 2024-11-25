@@ -11,7 +11,7 @@ I was in a restrictive non-compete clause until the end of 2023, so much of the 
 #### 📫 I'm Looking for a job! 📫
 Hit me up if you know of anyone who needs a solid .Net developer.
 
-Also check out my <a href="dudely3.github.io">Personal Wiki</a>, where you can find a bit more info about me, and where I keep my notes.
+Also check out my <a href="[dudely3.github.io](https://dudely3.github.io/)">Personal Wiki</a>, where you can find a bit more info about me, and where I keep my notes.
 
 <!--
 **Dudely3/Dudely3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
